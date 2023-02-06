@@ -1,5 +1,5 @@
 export default {
-  port: 1337,
+  port: 6969,
   dbUri: 'mongodb://127.0.0.1:27017/rest-api',
   saltWorkFactor: 10,
   accessTokenTtl: '15m',
