@@ -1,4 +1,4 @@
-# RESTAPI with Typescript, Express, MongoDB
+# REST API with Typescript, Express, MongoDB
 
 This is a RESTful API built using Typescript, Express and MongoDB for Practice. It provides an easy way to interact with data stored in MongoDB.
 
