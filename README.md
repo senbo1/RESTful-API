@@ -5,7 +5,7 @@ This is a RESTful API built using Typescript, Express and MongoDB for Practice. 
 ## Requirements
 
 * Node.js
-* Yarn
+* npm / pnpm / yarn
 * MongoDB
 
 ## Installation
@@ -25,7 +25,7 @@ cd RESTful-API
 3. Install the dependencies:
 
 ```bash
-yarn
+pnpm i
 ```
 
 ## Usage 
@@ -33,7 +33,7 @@ yarn
 1. Start the development server:
 
 ``` bash
-yarn run dev
+pnpm dev
 ```
 
 2. The API will be running on `http://localhost:6969`
